@@ -8,8 +8,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/zsnmwy/steam-acf2json.git"
+    "url": "git+https://github.com/zsnmwy/steam-acf2json.git"
   },
-  "homepage": "https://gitlab.com/zsnmwy/steam-acf2json#readme",
+  "homepage": "https://github.com/zsnmwy/steam-acf2json#readme",
   "bundleDependencies": false
 }
